@@ -83,7 +83,7 @@
     <% } %>
     <div class="jumbotron">
       <h1>Bright Suits for Dogs</h1>
-      <p><i>Why can't your canine companion be shiny too?</i></p>
+      <p><i>Why can't your canine companion be shiney too?</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
